@@ -1,2 +1,3 @@
 # hello-world
-My first repository on Git hub
+My first repository on GitHub
+Name: lanthao
